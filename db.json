@@ -1,0 +1,263 @@
+{
+  "resumes": [
+    {
+      "fullname": "Harry",
+      "location": "New York",
+      "job": "Data Analyst",
+      "phone": "9568751255",
+      "email": "harry@gmail.com",
+      "linkedin": "harry@linkedin.com",
+      "github": "harry@github.com",
+      "degree": "Btech",
+      "college": "SDEW",
+      "year": "2025",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Data Cleaning",
+        "Statistical Analysis",
+        "Pandas",
+        "NumPy"
+      ],
+      "summary": "Detail-oriented data analyst skilled in collecting, analyzing, and interpreting complex datasets to support business decisions. Experienced in data visualization and reporting tools.",
+      "id": "kAC_8_8j_do"
+    },
+    {
+      "fullname": "Williams",
+      "location": "bbchbdgh",
+      "job": "Data Scientist",
+      "phone": "34266123883",
+      "email": "willliams@gmail.com",
+      "linkedin": "jshhd",
+      "github": "fhddfheh",
+      "degree": "Btech",
+      "college": "hgter",
+      "year": "2024",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Data Visualization",
+        "Pandas",
+        "NumPy",
+        "Deep Learning",
+        "Model Evaluation",
+        "Data Wrangling",
+        "SQL"
+      ],
+      "summary": "Data scientist with expertise in machine learning, statistical analysis, and predictive modeling. Skilled in transforming large datasets into actionable insights.",
+      "id": "P9ZLM7D5GBs"
+    },
+    {
+      "fullname": "Louis",
+      "location": "US",
+      "job": "Full Stack Developer",
+      "phone": "8751266532",
+      "email": "louis@gmail.com",
+      "linkedin": "louis@gmail",
+      "github": "louis@github",
+      "degree": "BTECH",
+      "college": "UCS",
+      "year": "2020",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "REST APIs",
+        "Git",
+        "Deployment"
+      ],
+      "summary": "Full stack developer with hands-on experience in developing end-to-end web applications using both frontend and backend technologies. Adept at building scalable systems and delivering high-quality solutions.",
+      "id": "1j0okyoz8mg"
+    },
+    {
+      "fullname": "Niall",
+      "location": "Ireland",
+      "job": "Data Analyst",
+      "phone": "9875612875",
+      "email": "niall@sample.com",
+      "linkedin": "niall@linkdin",
+      "github": "niallgit@github",
+      "degree": "MCA",
+      "college": "UCD",
+      "year": "2020",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Data Cleaning",
+        "Statistical Analysis",
+        "Pandas",
+        "NumPy"
+      ],
+      "summary": "Detail-oriented data analyst skilled in collecting, analyzing, and interpreting complex datasets to support business decisions. Experienced in data visualization and reporting tools.",
+      "id": "2mwUXv4iIE0"
+    },
+    {
+      "fullname": "Ishan",
+      "location": "Mumbai",
+      "job": "Node.js Developer",
+      "phone": "1234567890",
+      "email": "Ishan@sample.com",
+      "linkedin": "ishu@linkdin",
+      "github": "ishan@github.gituser",
+      "degree": "BCA",
+      "college": "Mumbai University",
+      "year": "2025",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST APIs",
+        "MongoDB",
+        "Authentication",
+        "Middleware",
+        "Server Side Logic",
+        "API Security",
+        "Database Integration",
+        "Git"
+      ],
+      "summary": "Node.js developer experienced in building scalable backend services and REST APIs. Skilled in server-side development, database integration, and performance optimization.",
+      "id": "6PrWbYcCaCg"
+    },
+    {
+      "fullname": "Shreyas Iyer",
+      "location": "Delhi",
+      "job": "Software Developer",
+      "phone": "908766512",
+      "email": "shreyas@yahoo.com",
+      "linkedin": "shreyas@linkdin",
+      "github": "shreyas@github",
+      "degree": "MSC",
+      "college": "UD",
+      "year": "2024",
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "Object-Oriented Programming",
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "REST APIs",
+        "Debugging",
+        "Software Testing"
+      ],
+      "summary": "Results-driven software developer with strong experience in designing, developing, and maintaining scalable applications. Skilled in programming, debugging, and implementing efficient software solutions using modern development practices.",
+      "id": "yoZ2Ys5mwSY"
+    },
+    {
+      "fullname": "Anushka",
+      "location": "Hyderabad",
+      "job": "UI/UX Designer",
+      "phone": "9517251715",
+      "email": "anushka@sample.com",
+      "linkedin": "anushka@linkdin.com",
+      "github": "anushka@github",
+      "degree": "MA",
+      "college": "Mumbai University",
+      "year": "2020",
+      "skills": [
+        "Figma",
+        "Adobe XD",
+        "Wireframing",
+        "Prototyping",
+        "User Research",
+        "Usability Testing",
+        "Interaction Design",
+        "Design Systems",
+        "Typography",
+        "Color Theory"
+      ],
+      "summary": "UI/UX designer focused on creating intuitive and visually appealing user experiences. Skilled in wireframing, prototyping, and user-centered design to improve product usability.",
+      "id": "c_mTyOc4No4"
+    },
+    {
+      "fullname": "Ritika Sajde",
+      "location": "Pune",
+      "job": "Machine Learning Engineer",
+      "phone": "9568751255",
+      "email": "ritika@sample.com",
+      "linkedin": "ritika@linkedin.com",
+      "github": "ritika@github.com",
+      "degree": "BCA",
+      "college": "Pune University",
+      "year": "2023",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Deep Learning",
+        "Data Preprocessing",
+        "Model Deployment",
+        "Natural Language Processing",
+        "Computer Vision",
+        "MLOps"
+      ],
+      "summary": "Machine learning engineer experienced in developing, training, and deploying machine learning models. Skilled in data preprocessing, model evaluation, and AI-driven solution development.",
+      "id": "b3Zu-SbQme4"
+    }
+  ],
+  "downloads": [
+    {
+      "timeStamp": "10/29/2026,10:48:09 AM",
+      "resumeImg": "https://res.cloudinary.com/c0fcgxqw/image/upload/v1793251088/c8px8klez2u0c3dsczbg.png",
+      "resumeId": "kAC_8_8j_do",
+      "jobRole": "Data Analyst",
+      "id": "CHg2RAhK1ZI"
+    },
+    {
+      "timeStamp": "10/29/2026,10:54:17 AM",
+      "resumeImg": "https://res.cloudinary.com/c0fcgxqw/image/upload/v1793251457/gxqd7uj3y0tfql5rilg7.png",
+      "resumeId": "1j0okyoz8mg",
+      "jobRole": "Full Stack Developer",
+      "id": "YJCUGvxoqMM"
+    },
+    {
+      "timeStamp": "10/29/2026,11:22:49 AM",
+      "resumeImg": "https://res.cloudinary.com/c0fcgxqw/image/upload/v1793253168/vn0fzxlxzl7kztrysse5.png",
+      "resumeId": "kAC_8_8j_do",
+      "jobRole": "Data Analyst",
+      "id": "zkLs6Zpyl7Q"
+    },
+    {
+      "timeStamp": "10/29/2026,11:25:07 AM",
+      "resumeImg": "https://res.cloudinary.com/c0fcgxqw/image/upload/v1793253307/xfhw1u0nuhhdh5sxezrr.png",
+      "resumeId": "P9ZLM7D5GBs",
+      "jobRole": "Data Scientist",
+      "id": "7G81sD3vVBU"
+    },
+    {
+      "timeStamp": "10/30/2026,9:20:07 AM",
+      "resumeImg": "https://res.cloudinary.com/c0fcgxqw/image/upload/v1793332206/ifjxtwzrimzja7e7xqdp.png",
+      "resumeId": "2mwUXv4iIE0",
+      "jobRole": "Data Analyst",
+      "id": "BT6ZPFPGvEA"
+    },
+    {
+      "timeStamp": "10/30/2026,10:54:24 AM",
+      "resumeImg": "https://res.cloudinary.com/c0fcgxqw/image/upload/v1793337862/j2vcvq2zu0fmwupwuxgq.png",
+      "resumeId": "c_mTyOc4No4",
+      "jobRole": "UI/UX Designer",
+      "id": "ZzaqTsDfAhM"
+    },
+    {
+      "timeStamp": "10/30/2026,10:54:32 AM",
+      "resumeImg": "https://res.cloudinary.com/c0fcgxqw/image/upload/v1793337870/psgzgd7xrncj8n8m4pxd.png",
+      "resumeId": "yoZ2Ys5mwSY",
+      "jobRole": "Software Developer",
+      "id": "bmUVuUHJC44"
+    }
+  ]
+}
